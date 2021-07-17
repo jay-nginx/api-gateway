@@ -20,8 +20,8 @@ JWT with UID 111
 
 
 ##### Useful Links:
-* [REGEX - Blog](https://www.nginx.com/blog/regular-expression-tester-nginx/)
-* [AuthN / AuthZ - JWT Validation](https://www.nginx.com/blog/authentication-content-based-routing-jwts-nginx-plus/)
+* [REGEX - NGINX Blog](https://www.nginx.com/blog/regular-expression-tester-nginx/)
+* [AuthN / AuthZ - NGINX JWT Validation Blog](https://www.nginx.com/blog/authentication-content-based-routing-jwts-nginx-plus/)
 
 
 ## Built With
