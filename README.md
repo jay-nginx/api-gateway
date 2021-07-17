@@ -1,4 +1,4 @@
-# api-gateway
+# Configuring NGINX/Plus as an API Gateway
 This is the supporting GitHub link for the YouTube tutorial on configuring NGINX/Plus as an API Gateway.
 
 This covers configuring the API Gateway for:
