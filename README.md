@@ -22,6 +22,7 @@ JWT with UID 111
 ##### Useful Links:
 * [REGEX - NGINX Blog](https://www.nginx.com/blog/regular-expression-tester-nginx/)
 * [AuthN / AuthZ - NGINX JWT Validation Blog](https://www.nginx.com/blog/authentication-content-based-routing-jwts-nginx-plus/)
+* [Backend API Used - Ergast](https://github.com/jay-nginx/f1-api)
 
 
 ## Built With
@@ -29,6 +30,7 @@ JWT with UID 111
 * [Ubuntu](https://ubuntu.com/) - My favourite Linux OS for testing
 * [NGINX Plus](https://www.nginx.com/free-trial-request/) - NGINX Plus Trial
 * [Postman](https://www.postman.com/) - Download and use Postman
+* [ERGAST API](http://ergast.com/mrd/) - Backend API Used for Demo
 
 ## Author
 
